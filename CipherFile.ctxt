@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=key\ is\ os
+comment0.target=void\ encrypt(java.lang.String,\ java.io.InputStream,\ java.io.OutputStream)
+comment1.params=key\ is\ os
+comment1.target=void\ decrypt(java.lang.String,\ java.io.InputStream,\ java.io.OutputStream)
+comment2.params=key\ mode\ is\ os
+comment2.target=void\ encryptOrDecrypt(java.lang.String,\ int,\ java.io.InputStream,\ java.io.OutputStream)
+comment3.params=is\ os
+comment3.target=void\ doCopy(java.io.InputStream,\ java.io.OutputStream)
+numComments=4
